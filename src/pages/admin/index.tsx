@@ -110,7 +110,7 @@ const data = [
   },
   {
     key: "3",
-    name: "Leo Miranda",
+    name: "Tobi Belaw",
     image:
       "https://images.pexels.com/photos/6310077/pexels-photo-6310077.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
     category: 1,

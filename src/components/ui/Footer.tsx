@@ -17,10 +17,10 @@ export const FooterComponent = () => {
     >
       <Link
         className={styles.footerLink}
-        href="https://github.com/leoMirandaa"
+        href="https://github.com/tobistudio"
         target="_blank"
       >
-        <Paragraph>Created by Leo Miranda ©2024</Paragraph>
+        <Paragraph>Created by Tobi Belaw ©2024</Paragraph>
       </Link>
     </Footer>
   );

@@ -58,7 +58,7 @@ export const DishesNavbar = () => {
 
         <div className={styles.headerButtonsContainer}>
           <Button
-            href="https://github.com/leoMirandaa/restaurant-menu.git"
+            href="https://github.com/tobistudio/restaurant-menu.git"
             target="_blank"
             style={{ marginRight: ".5rem" }}
             icon={<GithubOutlined />}

@@ -51,7 +51,7 @@ export const DishesDrawer = ({ open, setOpen }) => {
 
         <div className={styles.buttonContainer}>
           <Button
-            href="https://github.com/leoMirandaa/restaurant-menu.git"
+            href="https://github.com/tobistudio/restaurant-menu.git"
             target="_blank"
             icon={<GithubOutlined />}
           >
